@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio 02/2 - Tablas en HTML</title>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <th>Título</th>
+                <th>Autor</th>
+                <th>Año de publicación</th>
+                <th>Enlace a Amazon</th>
+                
+            </tr>
+            <tr>
+                <td>El señor de los anillos</td>
+                <td>John Ronald Reuel Tolkien</td>
+                <td>1937</td>
+                <td><a href="https://www.amazon.es/El-Se%C3%B1or-Anillos-Libros/s?k=El+Se%C3%B1or+de+los+Anillos&rh=n%3A599364031">Enlace a libro</a></td>
+            </tr>
+            <tr>
+                <td>Muchas vidas, muchos maestros</td>
+                <td>Brian Weiss</td>
+                <td>1988</td>
+                <td><a href="https://www.amazon.es/Muchas-vidas-muchos-maestros-psiquiatra/dp/8416076200/ref=sr_1_1?adgrpid=120751627651&gclid=CjwKCAjwv4SaBhBPEiwA9YzZvDp-a_QGDFu7xCFv3blJ4nccJIjpK-1ioDZ6LPzqZSLZRmZjuYjB5hoCZ8YQAvD_BwE&hvadid=486185371127&hvdev=c&hvlocphy=9041010&hvnetw=g&hvqmt=b&hvrand=15409191788812670609&hvtargid=kwd-382146957986&hydadcr=14580_1829898&keywords=libros+de+brian+weiss&qid=1665257188&qu=eyJxc2MiOiIzLjIxIiwicXNhIjoiMi45NSIsInFzcCI6IjEuODcifQ%3D%3D&sr=8-1">Enlace a libro</a></td>
+            </tr>
+            <tr>
+                <td>Eragon</td>
+                <td>Christopher Paolini</td>
+                <td>2003</td>
+                <td><a href="https://www.amazon.com/s?k=eragon+book+series&adgrpid=121200770810&gclid=CjwKCAjwv4SaBhBPEiwA9YzZvM-irj-LOK79ahi7LOoQ-tyfEmz-Pkko0AXQTHzP2NiWuY2nqI2C_RoCJaoQAvD_BwE&hvadid=585479288867&hvdev=c&hvlocphy=9041010&hvnetw=g&hvqmt=b&hvrand=15814391919882079&hvtargid=kwd-298629172458&hydadcr=27990_14525466&tag=hydglogoo-20&ref=pd_sl_3ham3teor9_b">Enlace a libro</a></td>
+            </tr>
+        </table>
+    </body>
+</html>
