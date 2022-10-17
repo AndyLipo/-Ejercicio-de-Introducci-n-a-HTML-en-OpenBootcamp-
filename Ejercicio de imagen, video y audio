@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ejercicio con imágenes vídeos y audios</title>
+</head>
+    <body>
+        <h3>Aprendiendo a utilizar imágenes</h3>
+        <img src="logohtml.webp/imagen_runescape.jpg" alt="HTML5_logo" width="450" height="300" /> 
+        <h3>Aprendiendo a utilizar los vídeos</h3>
+        <video width="300" height="300" controls autoplay muted loop>
+            <source src="logohtml.webp/y2mate.com - Y ahora qué Capítulo 1  Canal Pakapaka_480p.mp4" type="video/mp4" />
+        </video>
+        <h3>Aprendiendo a utilizar los audios</h3>
+        <audio controls autoplay loop>
+            <source src="logohtml.webp/y2mate.com - MIX LO NUEVO 2022  FER PALACIO  PREVIA Y CACHENGUE  SET EN VIVO.mp3" type="audio/mp3" />
+
+        </audio>
+    </body>
+</html>
